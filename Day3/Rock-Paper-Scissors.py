@@ -80,5 +80,11 @@ while continu == "Y":
 
 print("-----------------------------")
 print("User Score : " + user_score + "\nComputer Score: " + comp_score)
+if user_score > comp_score:
+	print("In Grand total, User Won!!")
+elif user_score < comp_score:
+	print("In Grand total, Computer Won!!")
+else:
+	print("In Grand total, Match was a Draw")
 print("Thanks for Playing!!!\nCome Again Tommorrow")
 print("-----------------------------")
