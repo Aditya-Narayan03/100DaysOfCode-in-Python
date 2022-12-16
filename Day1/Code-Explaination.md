@@ -1,9 +1,9 @@
-Task Explaination:
+# Task Explaination:
 
 Our task for Day1 was to build a simple program that would display message wishing us Good Morning/Afternoon/Evening/Night depending upon the current timeon the system.
 
 
-Code Explaination:
+# Code Explaination:
 
 To start our program the first thing we'll do is to import a module called 'time'. This time module will let us work with time related problems.
 

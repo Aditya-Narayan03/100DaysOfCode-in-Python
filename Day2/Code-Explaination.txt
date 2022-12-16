@@ -1,4 +1,4 @@
-Task Explaination: 
+# Task Explaination: 
 
 Like the title suggests, this project involves writing a program that simulates rolling dice. 
 - When the program runs, it will randomly choose a number between 1 and 6.
@@ -10,7 +10,7 @@ Like the title suggests, this project involves writing a program that simulates 
 
 
 
-Code Explaination: 
+# Code Explaination: 
 
 Because we need to generate random values that singnifying the randomness when you throw a die, we will import a module called 'random'.
 This random module will let us do exactly that => Generate random values.
