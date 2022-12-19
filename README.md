@@ -49,4 +49,12 @@ You will get limited chances to make guesses.
 You can also set your difficulty level and regulate the number of guesses you get.
 ```
 
+## Day5 - Reverse_Guessing_The_Number.py
 
+```
+This is the same traditional number guessing game with only one twist.
+
+This time the computer has to guess the number and the user is the one 
+to be providing the hints.
+User will instruct computer about its guesses being larger or smaller.
+```
