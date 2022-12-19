@@ -75,11 +75,3 @@ also you ran out of Guesses.....Better luck next time. ")
         print("\nYour guess is smaller than the random number.\nTry going for something larger.")
         print(f"You only have {num_guesses} guesses left.")
         print("-------------------------------------")
-
-
-    
-    
-    # # continu = input("Do you want to contiue playing [Y/N] : ")
-    # if continu != "Y":
-    #     print("\nThanks for Playing!!!!")
-    #     quit()
