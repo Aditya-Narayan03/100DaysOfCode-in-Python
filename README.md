@@ -72,3 +72,9 @@ User will instruct computer about its guesses being larger or smaller.
 This Password Manager application is designed for creating user account with user’s name and password. 
 And after the creation of accounts the program stores it in a file which then can be viewed by user.
 ```
+
+## Day7 - Building TCP Client and Server
+
+```
+Creating TCP Server & TCP Client to communicate, send and recieve data using Sockets.
+```
