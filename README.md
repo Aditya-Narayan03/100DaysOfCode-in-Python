@@ -65,3 +65,10 @@ This time the computer has to guess the number and the user is the one
 to be providing the hints.
 User will instruct computer about its guesses being larger or smaller.
 ```
+
+## Day6 - PasswordManager.py
+
+```
+This Password Manager application is designed for creating user account with user’s name and password. 
+And after the creation of accounts the program stores it in a file which then can be viewed by user.
+```
