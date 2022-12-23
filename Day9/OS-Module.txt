@@ -1,0 +1,49 @@
+- print(dir(os))											 =>                        to print all the functions and features we can use in OS Module
+
+- print(os.getcwd()) 										 =>                        prints the Current Working Directory (c . w . d)
+
+- os.chdir(<path>) 											 =>                        lets you change the working directory
+
+- os.listdir() 												 =>                        will list files and folders in current directory
+
+- os.listdir(<path>)										 =>                        will list directory for a particular directory
+
+- os.mkdir('directory name')								 =>                        creates directory
+
+- os.makedirs('directory name/subdirectory name')			 =>                        creates directory and subdirectory if you want to
+
+- os.rmdir('directory name')								 =>                        deletes directory
+
+- os.removedirs('directory/subdirectory')					 =>                        deletes directory recursively
+
+- os.rename('original file', 'new file name')				 =>                        renames any file of choice
+
+- print(os.stat('filename'))								 =>                        prints the info and details of file
+
+- print(os.stat('filename').st_size)						 =>                        prints the size of file in bytes
+
+- print(os.stat('filename').st_mtime)						 =>                        prints the last modified time
+
+- os.walk()													 =>                        gives you the tree structure of all the directories from root folder
+
+	to specify the directory we can write following code
+
+	# for dirpath, dirnames, filenames in os.walk('directory'):
+
+	# 	print('Current Path : ', dirpath)
+	# 	print('Directory : ', dirnames)
+	# 	print('Files : ', filenames, "\n")
+
+- print(os.environ)											 =>                        prints all the environment variables
+
+- print(os.environ.get('HOME'))								 =>                        prints the environment variable of HOME which will be home directory of current user.
+
+- os.path()													 =>                        have different but very useful attributes to work with paths
+
+- os.path.join(argument1, argument2)						 =>                        used for joining to different paths or creating a new path 
+
+- os.path.isdir(<path>)										 =>                        returns true if its a directory
+
+- os.path.isfile(<path>)									 =>                        returns true if its a file
+
+
