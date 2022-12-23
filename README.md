@@ -72,3 +72,18 @@ User will instruct computer about its guesses being larger or smaller.
 This Password Manager application is designed for creating user account with user’s name and password. 
 And after the creation of accounts the program stores it in a file which then can be viewed by user.
 ```
+
+## Day7 - Building TCP Client and Server
+
+```
+Creating TCP Server & TCP Client to communicate, send and recieve data using Sockets.
+```
+
+## Day8 - Csv-Parser.py
+
+```
+Writing a program to parse a CSV file and then store it into another CSV file.
+
+Here we will first read the samlpe csv file and try then changing the delimiter.
+After changing it, we will store it in a different CSV file.
+```
