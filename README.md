@@ -87,3 +87,9 @@ Writing a program to parse a CSV file and then store it into another CSV file.
 Here we will first read the samlpe csv file and try then changing the delimiter.
 After changing it, we will store it in a different CSV file.
 ```
+
+## Day9 - OS-Module
+
+```
+Today I learned the OS module in python and made a list of commands that might be helpful to build projects using OS module.
+```
