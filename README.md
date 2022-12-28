@@ -93,3 +93,13 @@ After changing it, we will store it in a different CSV file.
 ```
 Today I learned the OS module in python and made a list of commands that might be helpful to build projects using OS module.
 ```
+
+## Day10 - Password-Generator.py
+
+```
+Simple password generator program using secrets and string modules in python.
+
+It will generate 16 character long alphanumeric text which will be chosen randomly and I used secrets module because the random 
+module follows an algorithm to generate random values whereas secrets module doesn't do it. For security purposes its preferable to
+use secrets module.
+```
